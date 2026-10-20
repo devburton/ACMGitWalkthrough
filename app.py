@@ -1,4 +1,4 @@
-message = "Hello everyone in ACM!"
+message = "Hello everyone, This is a message for ACM!"
 members = ["Alex", "Jordan", "Sam"]
 
 print(message)
